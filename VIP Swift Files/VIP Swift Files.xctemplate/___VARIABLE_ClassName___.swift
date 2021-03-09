@@ -1,0 +1,1 @@
+enum ___VARIABLE_ClassName___ {}
