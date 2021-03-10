@@ -29,7 +29,7 @@ final class ___VARIABLE_ClassName___ViewController: ViewController {
 
 }
 
-extension ___VARIABLE_ClassName___Controller: ___VARIABLE_ClassName___PresenterDelegate {
+extension ___VARIABLE_ClassName___ViewController: ___VARIABLE_ClassName___PresenterDelegate {
     func render(_ viewModel: ___VARIABLE_ClassName___.ViewModel) {
         customView.render(viewModel)
     }

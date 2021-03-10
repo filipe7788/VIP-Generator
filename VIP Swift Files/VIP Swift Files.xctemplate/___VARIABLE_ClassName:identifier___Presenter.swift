@@ -17,7 +17,7 @@ final class ___VARIABLE_ClassName___Presenter {
 }
 
 extension ___VARIABLE_ClassName___Presenter: ___VARIABLE_ClassName___PresenterProtocol {
-    func setup(delegate: RegistrationTrackingPresenterDelegate) {
+    func setup(delegate: ___VARIABLE_ClassName___PresenterDelegate) {
         self.viewController = delegate
     }
 
