@@ -3,7 +3,7 @@
 import MPayViewModels
 import MPayModels
 
-protocol ___VARIABLE_ClassName___PresenterProtocol: AnyObject {
+protocol ___VARIABLE_ClassName___PresenterProtocol {
     func setup(delegate: ___VARIABLE_ClassName___PresenterDelegate)
     func present()
 }

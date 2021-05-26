@@ -2,7 +2,7 @@
 
 import Foundation
 
-protocol ___VARIABLE_ClassName___InteractorProtocol: class {
+protocol ___VARIABLE_ClassName___InteractorProtocol: AnyObject {
     func viewDidLoad()
 }
 
